@@ -1,0 +1,1 @@
+# Student Result CLI (Go)\n\nA modular Go CLI app that processes student results.\nRun with `go run .`\n
